@@ -6,8 +6,8 @@
 #### 김선웅: 자르고 정렬 
 링크: https://dndenf.tistory.com/25
 
-#### 정의진: 
-링크:
+#### 정의진: 정렬
+링크: https://uijin.tistory.com/67
 
 #### 정연미:
 링크 : 

@@ -3,8 +3,8 @@
 #### 최태승: Sort
 링크: https://isshosng.tistory.com/163
 
-#### 김선웅:
-링크:
+#### 김선웅: 자르고 정렬 
+링크: https://dndenf.tistory.com/25
 
 #### 정의진: 
 링크:

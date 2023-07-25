@@ -3,8 +3,8 @@
 #### 최태승: substring
 링크 : https://isshosng.tistory.com/194
 
-#### 김선웅: 
-링크 : 
+#### 김선웅: split, StringTokenizer
+링크 : https://dndenf.tistory.com/55
 
 #### 정의진: StringTokenizer 사용
 링크 : https://uijin.tistory.com/136

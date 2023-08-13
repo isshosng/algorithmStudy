@@ -9,8 +9,8 @@
 #### 정의진: 구현
 링크 : https://uijin.tistory.com/158
 
-#### 정연미:
-링크 :
+#### 정연미: 구현
+링크 : https://velog.io/@ymj10/programmers-12953
 
 #### 박소미:
 링크 :
